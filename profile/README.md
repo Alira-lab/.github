@@ -2,9 +2,13 @@
 
 ## AI WELLMAYBE
 
-**AI WELLMAYBE** is the current company/platform brand used by Alira-lab for independent AI ratings, registry, diagnostics, evaluation software and related research.
+**Independent AI ratings · Registry · Diagnostics**
 
-**AI Risk Ratings (AIRR)** is the underlying technical methodology/system for evidence-backed rating and diagnostic work.
+**AI WELLMAYBE** is the current company/platform brand used by Alira-lab for evidence-backed evaluation of AI systems, AI agents and automated processes.
+
+**AI Risk Ratings (AIRR)** is the underlying technical methodology/system.
+
+> **Evidence over claims. Assessment depth is not a universal safety grade.**
 
 Current public product family:
 
@@ -13,7 +17,7 @@ Current public product family:
 - **AI WELLMAYBE Diagnostics**
 - **AI WELLMAYBE Edge**
 
-Public brand record and current scope:
+Canonical public brand and methodology record:
 
 **https://github.com/Alira-lab/ai-wellmaybe**
 
